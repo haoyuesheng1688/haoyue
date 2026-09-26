@@ -1,0 +1,267 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "35580436d77ad3093f4b9f6d4bcd7dd6a032d2580a98d612e401456f33e9d226",
+    "source": "migration-generated"
+  },
+  {
+    "path": "cases/20260925_塔顶排风接口参数化_01a0d55a/knowledge_update_20260926/塔顶排风接口复盘.md",
+    "sha256": "3e9dbd90ac9efcd1abdc2eea9f51435c2cb94db41b225c01d561541fe7fe0da8",
+    "source": "D:\\codex\\solidworks2\\20260925_塔顶排风接口参数化_01a0d55a\\knowledge_update_20260926\\塔顶排风接口复盘.md"
+  },
+  {
+    "path": "cases/20260925_塔顶排风接口参数化_01a0d55a/修复验证记录.md",
+    "sha256": "7af478722875aa448786c9953863361ea8af3e6e949caf2422cebd629f673942",
+    "source": "D:\\codex\\solidworks2\\20260925_塔顶排风接口参数化_01a0d55a\\修复验证记录.md"
+  },
+  {
+    "path": "cases/20260925_塔顶排风接口参数化_01a0d55a/参数一览.md",
+    "sha256": "e93f571d57142ad740f9160cac1de2882e3e8882d6db378918240c0a80b546dd",
+    "source": "D:\\codex\\solidworks2\\20260925_塔顶排风接口参数化_01a0d55a\\参数一览.md"
+  },
+  {
+    "path": "cases/20260925_塔顶排风接口参数化_01a0d55a/参数说明.md",
+    "sha256": "4f19593a79138ff3c2410fbc2203b15096aee5b30152e5096804316f1a7f6121",
+    "source": "D:\\codex\\solidworks2\\20260925_塔顶排风接口参数化_01a0d55a\\参数说明.md"
+  },
+  {
+    "path": "cases/20260925_塔顶排风接口参数化_01a0d55a/验证摘要.md",
+    "sha256": "216f3f33fd383fa13aee0aab1e6f1fb7a67fd94a1c4793b93db1a22f5f05ec36",
+    "source": "D:\\codex\\solidworks2\\20260925_塔顶排风接口参数化_01a0d55a\\验证摘要.md"
+  },
+  {
+    "path": "cases/20260925_外形参数化_01a0d48f/knowledge_update_20260926/PPG25知识库正文.md",
+    "sha256": "7653b1b4d2478bd6ba9ed2fae4245cbfc7279654961847884eb63562b0538eae",
+    "source": "D:\\codex\\solidworks2\\20260925_外形参数化_01a0d48f\\knowledge_update_20260926\\PPG25知识库正文.md"
+  },
+  {
+    "path": "cases/20260925_外形参数化_01a0d48f/参数说明.md",
+    "sha256": "b9e338f0840f9ef842e612d8a8d0b061134cd41437650565b5a783a3e5b03e0d",
+    "source": "D:\\codex\\solidworks2\\20260925_外形参数化_01a0d48f\\参数说明.md"
+  },
+  {
+    "path": "cases/20260925_外形参数化_01a0d48f/说明.md",
+    "sha256": "cdbf5471d42a36f3724afb771a9d8406ea0f257c03ef0bacf3f22a78d63e40df",
+    "source": "D:\\codex\\solidworks2\\20260925_外形参数化_01a0d48f\\说明.md"
+  },
+  {
+    "path": "cases/20260925_外形参数化_01a0d48f/验证报告.md",
+    "sha256": "9be9725bb2a41475e553262613f71363fae864dfc8aa6f5285fca38db4a42ebb",
+    "source": "D:\\codex\\solidworks2\\20260925_外形参数化_01a0d48f\\验证报告.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/knowledge/20260926/雾化塔知识库导入.md",
+    "sha256": "828b6a63a31fbdf9499dd9a54dfa4e36c9b69870862e75465e6328e2fe0d3752",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\knowledge\\20260926\\雾化塔知识库导入.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/revisions/20260925_槽口与人孔修正/使用说明.md",
+    "sha256": "1e860e2364db42d86d1e14dea2fb575940e71e6962e196071bc046ad6e2a37b9",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\revisions\\20260925_槽口与人孔修正\\使用说明.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/revisions/20260925_槽口与人孔修正/验证报告.md",
+    "sha256": "66f7a556d1ad5194368670248efbf026ece067b9654c186326b6006cb88ab46a",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\revisions\\20260925_槽口与人孔修正\\验证报告.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/revisions/20260925_顶盖与双接管/使用说明.md",
+    "sha256": "5cdbf0d585492ed3730756a25575ea90683038e9145caac15334211003dcc700",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\revisions\\20260925_顶盖与双接管\\使用说明.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/revisions/20260925_顶盖与双接管/验证报告.md",
+    "sha256": "16bbc9e88601d7e1fc363a82cd7f50cda9fe7c07f78de5e912e41779bff60c36",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\revisions\\20260925_顶盖与双接管\\验证报告.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/revisions/20260925_顶盖焊接修正/使用说明.md",
+    "sha256": "9154bfc90069197c181fc7ec838ee253cc8701cbc7628381c9a7873ef8dfb448",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\revisions\\20260925_顶盖焊接修正\\使用说明.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/revisions/20260925_顶盖焊接修正/验证报告.md",
+    "sha256": "12758126337b8a5bb8ce54529e61148057e1710d25413dae6854bc3f74981832",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\revisions\\20260925_顶盖焊接修正\\验证报告.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/使用说明.md",
+    "sha256": "0139e245f60d08ca9367951c145d03a46321be605aa95d175f70d22d2f65f823",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\使用说明.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/参数一览.md",
+    "sha256": "a5ecc589dee7c7a0c7eeb86678c9e97512f40063056635c94c30dde69ff26989",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\参数一览.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709/验证报告.md",
+    "sha256": "fe34484a00444bdc95c712a6014d1f0f9bae1d01248b61b784bf329c71cfc524",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔主体参数化_01a0d732-8aaa-7bb0-9da6-fdbd9a3c9709\\验证报告.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔头部参数化_01a0d5f2-a88b-7841-98cc-74a980dc64ad/knowledge_update_20260926/更新记录.md",
+    "sha256": "d3315d64691aee4872a7cb551c7706870f5c525718f44591c55efdb96c8bca18",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔头部参数化_01a0d5f2-a88b-7841-98cc-74a980dc64ad\\knowledge_update_20260926\\更新记录.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔头部参数化_01a0d5f2-a88b-7841-98cc-74a980dc64ad/使用说明.md",
+    "sha256": "363aa2e2a681469d0e861cb1c1ffaa85337ab419d8ff02191741041001f03ae7",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔头部参数化_01a0d5f2-a88b-7841-98cc-74a980dc64ad\\使用说明.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔头部参数化_01a0d5f2-a88b-7841-98cc-74a980dc64ad/验证报告.md",
+    "sha256": "e5189c3025fba6d183000bdd7f1a95b89bcb5716581ffd09e2e03d09c8648e55",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔头部参数化_01a0d5f2-a88b-7841-98cc-74a980dc64ad\\验证报告.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5/knowledge/底部参数化复盘.md",
+    "sha256": "9d3efd9d3dcba4b955b1f9f9a40cce609a8f7a335821d018739c2de594124276",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5\\knowledge\\底部参数化复盘.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5/使用说明.md",
+    "sha256": "c6b71f391b5cc2cbcc45ad02fce31b2dbefbaf34f9abe40ca676f8e727370df9",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5\\使用说明.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5/参数一览.md",
+    "sha256": "0056d6ae8a0355aa8d5e2850e9c70f56fe35496d88e7b9bafb8e70f1ad620214",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5\\参数一览.md"
+  },
+  {
+    "path": "cases/20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5/验证报告.md",
+    "sha256": "283c5d9b687a33a90eb5231e1056f6509c01e369a0e724f0c41941adf1ddeb7c",
+    "source": "D:\\codex\\solidworks2\\20260925_雾化塔底部参数化_01a0d62a-0a07-7502-9eb9-966a9e00e4a5\\验证报告.md"
+  },
+  {
+    "path": "docs/migration.md",
+    "sha256": "f9f309a983c5a070f41a299aecfc306e48da779552f3ef549fb826380a8f8930",
+    "source": "migration-generated"
+  },
+  {
+    "path": "docs/source-project-rules.md",
+    "sha256": "47014442b424354e14282c46646a47599a0698e96dbf3e4406b989da50ee92c5",
+    "source": "D:\\codex\\solidworks2\\AGENTS.md"
+  },
+  {
+    "path": "INDEX.md",
+    "sha256": "5d44a3c966392d10a007dcb08eeb93f7556df494553b9ed344912eac0f122c99",
+    "source": "migration-generated"
+  },
+  {
+    "path": "knowledge/PPG25整机外形布局参数化-验证与避坑.md",
+    "sha256": "a4aa6d65d8c9aaf7030aefc02d692262a14f11b2a400a6c165c9e2bea29006ba",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\PPG25整机外形布局参数化-验证与避坑.md"
+  },
+  {
+    "path": "knowledge/SolidWorks E16离心雾化座-建模复盘与避坑.md",
+    "sha256": "55a9ad1c7f76741dea826a46b5ce9103a83317910273032500ab7362c1435a01",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\SolidWorks E16离心雾化座-建模复盘与避坑.md"
+  },
+  {
+    "path": "knowledge/SolidWorks塔顶排风接口-分割失效与平行面参数化复盘.md",
+    "sha256": "ebb3b9c8a3c16062cb898a4709913bc10754aeccacb65c9a2fcc41fedcc8875f",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\SolidWorks塔顶排风接口-分割失效与平行面参数化复盘.md"
+  },
+  {
+    "path": "knowledge/SolidWorks旋风分离器R4-等面积与偏心斜切参数化复盘.md",
+    "sha256": "502da3f39e34597387c34d37b9bcd0e72dde47d9636b9376fdaffbc8da91bcf1",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\SolidWorks旋风分离器R4-等面积与偏心斜切参数化复盘.md"
+  },
+  {
+    "path": "knowledge/SolidWorks雾化塔主体-三层顶盖双接管与焊接参数化复盘.md",
+    "sha256": "df36f42c0173e1d2f4f123b93da20028aed1e6b890fd4b56854d24e781830aaf",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\SolidWorks雾化塔主体-三层顶盖双接管与焊接参数化复盘.md"
+  },
+  {
+    "path": "knowledge/SolidWorks雾化塔头部-三层保温与入口参数化复盘.md",
+    "sha256": "6c28931769e088ad000190d6714eda8ae25d9e59ae221d1de1dc74253df3640c",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\SolidWorks雾化塔头部-三层保温与入口参数化复盘.md"
+  },
+  {
+    "path": "knowledge/SolidWorks雾化塔底部-独立提取与三层参数化复盘.md",
+    "sha256": "06e79a323c64f8ddb20f7ec2a261f1e6867ac85609198db6a0e64eca3c993151",
+    "source": "D:\\codex\\basic-memory\\knowledge\\codex\\SolidWorks雾化塔底部-独立提取与三层参数化复盘.md"
+  },
+  {
+    "path": "README.md",
+    "sha256": "9adfe37a4f8c7cd97efefd2d245551d786ce481607b7e578a5aa978d9c009c1e",
+    "source": "migration-generated"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/agents/openai.yaml",
+    "sha256": "be93c4170423e4d4bb797297d60f807c46e175f44e9e50d5700ffe6acfda2c80",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\agents\\openai.yaml"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/com-geometry.md",
+    "sha256": "3ff1313d7d21d3bbfd73d00726e18ae2498dda477ffa70c119c6a9dbdcbc8f96",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\com-geometry.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/cyclone-parametric-loop.md",
+    "sha256": "ab8bd9b437d8409380b1a467d4726fb499709fbac2ea3d95daa83e8c79bcaa55",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\cyclone-parametric-loop.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/envelope-layout-parametric.md",
+    "sha256": "e562a5ddd1ec9a34f26720f7bafc62762399aa54306b6281a8fe0852a616f233",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\envelope-layout-parametric.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/inlet-head-import-loop.md",
+    "sha256": "ac2a3c0e923568954c0e2829096d214d286f2afa33eb4dea4593883d432ce5c8",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\inlet-head-import-loop.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/insulated-system-extraction.md",
+    "sha256": "1e9b4b6f44a3a130fead019f366666a2bb03b25238ce0d3dd0a660fad78403c5",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\insulated-system-extraction.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/layered-roof-weld-joints.md",
+    "sha256": "2f709cb3eaf4b44f14f7c08ca3a0326dcfe19a11fe040f3eda83820758ecc642",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\layered-roof-weld-joints.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/parametric-assembly.md",
+    "sha256": "e33bbe177c3a0cae29fd56840c0b0f6a741cb27208af00977df54601f3d234d1",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\parametric-assembly.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/seat-assembly-loop.md",
+    "sha256": "3416cf237b7db4df9ec6ee78e8ee30ea5115370352cd5e1da8e7c6be0df79d8b",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\seat-assembly-loop.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/split-body-parametric-repair.md",
+    "sha256": "c1a69ea1a59ad716f0d9078d6e23b19890bcc8e77fc75b0f11c8c2f810cf4690",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\split-body-parametric-repair.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/references/xf-case.md",
+    "sha256": "21e35d73e63053375296ccde4504178a0521b11e8521b743a36f37b7a90fc3fb",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\references\\xf-case.md"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/scripts/sw_probe.py",
+    "sha256": "84351776efda0d421aa76a0627cea8c7f21208b295b82119307454761287a86d",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\scripts\\sw_probe.py"
+  },
+  {
+    "path": "skills/solidworks-drawing-model-loop/SKILL.md",
+    "sha256": "effc198a104d915ce4ad9518a6e62abd41d33b4f844463f8367e98da0aa853ce",
+    "source": "C:\\Users\\QF100\\.codex\\skills\\solidworks-drawing-model-loop\\SKILL.md"
+  },
+  {
+    "path": "skills/solidworks-standalone-parametric-delivery/SKILL.md",
+    "sha256": "51240afff78bf836c86e2a7e2fe326325c5590904befaf5359b38c821d29e859",
+    "source": "C:\\Users\\QF100\\.codex\\memories\\skills\\solidworks-standalone-parametric-delivery\\SKILL.md"
+  },
+  {
+    "path": "tools/install.py",
+    "sha256": "ba5781d4126e16bf5129e171bfa1c3b1dffb956c0d2af2fc74786780c4ce39f2",
+    "source": "migration-generated"
+  }
+]

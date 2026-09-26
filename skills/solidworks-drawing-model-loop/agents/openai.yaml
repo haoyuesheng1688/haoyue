@@ -1,0 +1,4 @@
+interface:
+  display_name: "SolidWorks 建模与参数联动闭环"
+  short_description: "连接已打开的 SolidWorks，完成图纸建模或装配参数联动并回读验证"
+  default_prompt: "使用 $solidworks-drawing-model-loop 连接目标 SolidWorks 文档，完成建模或已有装配参数化，并验证实际几何变化、参数往返及保存重开。"

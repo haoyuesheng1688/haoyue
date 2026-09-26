@@ -1,41 +1,8 @@
-# Local runtime state
-.project-codex-home/
-.codex/
-.cache/
-.tmp/
-tmp/
-temp/
-logs/
-*.log
-
-# Python / Node environments
-.venv/
-venv/
 __pycache__/
 *.pyc
-node_modules/
-dist/
-build/
-
-# Secrets and machine-local config
+.venv/
 .env
-.env.*
-!.env.example
-*.pem
-*.key
-*.pfx
-*.p12
-secrets/
-
-# OS / editor noise
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Large generated artifacts should be reviewed before publishing
-*.zip
-*.7z
-*.rar
-*.tar
-*.gz
+*.SLDPRT
+*.SLDASM
+*.step
+*.stp
